@@ -7,15 +7,15 @@ The Moodie Foodies
 
 + data_prep/: data gathering, cleaning, partitioning and normalization
 
-  + Data_prev.ipynb: to join food dataset with the flavor dataset
+  + join_dataset.ipynb: to join food dataset with the flavor dataset
++ Confusion Matrix.ipynb: metrics to analyze string matching performance
+  + split_datasetipynd: to split data into "dev" and "test" datasets
++ Schema.json: the overview of the data structure
 
-  + Food.ipynd: to split data into "dev" and "test" datasets
++ data/: origin datasets and joined datasets
++ embeddings.ipynb: word and doc embeddings
 
-  + Schema.json: the overview of the data structure
 
-  + Dev_set.json: 1000 entries from the full size 1M recipe dataset
 
-    
 
-    
 
