@@ -9,7 +9,7 @@ Installation:
 
 
 Execution:
-    1. (optional) To generate partial datasets (dev_set) and validation datasets (valid_set) for development purposes, run file CODE/data_prep/split_dataset.ipynb
+    1. (optional) To generate partial datasets (dev_set) and validation datasets (valid_set) for development purposes, run file CODE/data_prep/create_sets.ipynb
     
     2. (optional) To preprocess (clean and join) datasets, run file CODE/data_prep/join_dataset.ipynb, please note that modify two parameters "food_path" and "flavor_path" before running the script if users want to generate a full dataset.
 
