@@ -23,5 +23,5 @@ Execution:
 
 data_download link: 
 
-https://gtvault-my.sharepoint.com/personal/jnand3_gatech_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fjnand3%5Fgatech%5Fedu%2FDocuments%2FCS6242%20%2D%20Project%2Fdata%2Ezip&parent=%2Fpersonal%2Fjnand3%5Fgatech%5Fedu%2FDocuments%2FCS6242%20%2D%20Project
+hhttps://gtvault-my.sharepoint.com/:u:/g/personal/jnand3_gatech_edu/ESEs8qfEAf5Dm0PCY1whsfUBXz-iMaHBtNWHm1S1ChiCLA
 
