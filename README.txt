@@ -5,7 +5,7 @@ Description:
 Installation:
     1. Set up virtual environment by navigating into directory /CODE, using the requirements.yml: "conda env create -f requirements.yml" or set up virtual environment by using python built-in tool:  "python3 -m venv myenv" and use pip to install packages: "pip install -r requirements.yml"
 
-    2. All origin datasets, processed datasets, and trained models are in the folder /Data, user can either directly use processed datasets and trained model or reproduce datasets and models by following "Execution" section below
+    2. All origin datasets, processed datasets, and trained models can be downloaded into folder /Data by using the link in the data_download section below, user can either directly use processed datasets and trained model or reproduce datasets and models by following "Execution" section below
 
 
 Execution:
@@ -18,3 +18,10 @@ Execution:
     4. (optional) For model performance analysis, run file CODE/data_prep/confusion_matrix.ipynb
 
     5. To train model and use the interactive app, run file CODE/app/embeddings.ipynb
+
+
+
+data_download link: 
+
+https://gtvault-my.sharepoint.com/personal/jnand3_gatech_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fjnand3%5Fgatech%5Fedu%2FDocuments%2FCS6242%20%2D%20Project%2Fdata%2Ezip&parent=%2Fpersonal%2Fjnand3%5Fgatech%5Fedu%2FDocuments%2FCS6242%20%2D%20Project
+
