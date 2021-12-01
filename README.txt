@@ -5,7 +5,7 @@ Description:
 Installation:
     1. Set up virtual environment by navigating into directory /CODE, using the requirements.yml: "conda env create -f requirements.yml" or set up virtual environment by using python built-in tool:  "python3 -m venv myenv" and use pip to install packages: "pip install -r requirements.yml"
 
-    2. All origin datasets, processed datasets, and trained models can be downloaded into folder /Data by using the link in the data_download section below, user can either directly use processed datasets and trained model or reproduce datasets and models by following "Execution" section below
+    2. All origin datasets, processed datasets, and trained models can be downloaded into folder /Data by using the link in the data_download link below, user can either directly use processed datasets and trained model or reproduce datasets and models by following "Execution" section below
 
 
 Execution:
